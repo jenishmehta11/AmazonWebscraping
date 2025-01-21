@@ -36,8 +36,8 @@ selenium
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jenishmehta11/amazon_books_webscraping.git
-   cd amazon_books_webscraping
+   git clone https://github.com/jenishmehta11/Amazon_books_webscraping.git
+   cd Amazon_books_webscraping
    ```
 
 2. Run the scraping script:
