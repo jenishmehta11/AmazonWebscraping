@@ -42,7 +42,7 @@ selenium
 
 2. Run the scraping script:
    ```bash
-   python scrape_amazon.py
+   python webscraping.py
    ```
 
 3. View the extracted data in the `data/` folder.
